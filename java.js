@@ -7,7 +7,7 @@ const finalMessage = document.getElementById('final-message');
 
 const figureParts = document.querySelectorAll('.figure-part');
 
-const words=['un papa hors pair']
+const words=['unpapahorspair']
 
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
